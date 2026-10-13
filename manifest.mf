@@ -1,3 +1,2 @@
 Manifest-Version: 1.0
-Protocolo: RMI
-X-COMMENT: Protocolo RMI - Calculo de IMC
+X-COMMENT: Main-Class will be added automatically by build

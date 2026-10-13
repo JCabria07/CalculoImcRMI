@@ -3,10 +3,10 @@ package juancabria.seminario.imc.rmi.lib;
 import java.io.Serializable;
 
 /**
- * Clase para transportar los datos del resultado del IMC
- * @author JuanCabria
+ * @author Juan Cabria
  */
 public class DatosImc implements Serializable {
+
     private float peso;
     private float altura;
     private float resultado;
